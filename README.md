@@ -1,4 +1,4 @@
-# TWRP_3.7.1_M31s
+## TWRP_3.7.1_M31s
 TWRP 3.7.1 for Galaxy M31s (M317F). This TWRP supports latest M31s Firmware, also compatible with BIT 3, 4, 5.
 
 **TERMS AND CONDITIONS**
